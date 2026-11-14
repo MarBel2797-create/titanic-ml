@@ -120,4 +120,4 @@ plt.xlabel('Вклад в предсказание')
 plt.savefig('chart1.png')
 plt.show()
 
-print("\nГотово! Вы обучили первую модель машинного обучения.")
+print("\nГотово! Вы обучили модель Random Forest.")
