@@ -129,4 +129,4 @@ plt.tight_layout()
 plt.savefig("decision_tree_importances.png")
 plt.show()
 
-print("\nГотово! Вы обучили первую модель машинного обучения.")
+print("\nГотово! Вы обучили модель Decision Tree.")
