@@ -124,4 +124,4 @@ plt.tight_layout()
 plt.savefig("feature_coefficients.png")
 plt.show()
 
-print("\nГотово! Вы обучили первую модель машинного обучения.")
+print("\nГотово! Вы обучили модель Logistic Regression.")
